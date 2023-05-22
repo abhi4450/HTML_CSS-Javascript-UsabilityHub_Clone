@@ -188,14 +188,13 @@ header p {
 /*features section*/
 
 .features-section {
-  padding: 80px var(--padding-inline-section) 0;
+  padding: 80px var(--padding-inline-section) 50px;
   background-image: url(assets/asset\ 41.png);
   background-repeat: no-repeat;
   background-position: center;
   background-color: lightblue;
   background-size: 50%;
   margin-top: 50px;
-  padding-bottom: 50px;
 }
 
 .features-header {
